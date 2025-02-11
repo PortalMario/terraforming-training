@@ -25,4 +25,4 @@ After we jumped into the terraform directory we initialize the working directory
 Afterwards we remove our newly created resources.
 
 ## Getting Started
-Folders named: `terra-[1-4]` build on top of each other. A destroy is needed in order to proceed from one folder to the next.
+Follow the instructions of: [TRAINER.md](./TRAINER.md)
